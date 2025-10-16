@@ -17,7 +17,7 @@ export default function Header() {
     <header className="bg-white border-b border-gray-200">
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-16">
         <Link to="/" className="text-xl font-bold text-gray-800">
-          atlys
+          foo-rum
         </Link>
 
         {user ? (
