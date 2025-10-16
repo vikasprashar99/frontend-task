@@ -1,8 +1,7 @@
 # React + TypeScript + Vite
 
-This project is built using **React**, **TypeScript**, and **Vite** for a fast and modern development experience.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
